@@ -11845,7 +11845,7 @@
                   (0, Ut.jsx)("li", {
                     className: "hide",
                     children: (0, Ut.jsx)("a", {
-                      href: "https://x.com/monkascoin",
+                      href: "https://x.com/Monkas_11",
                       title: "MonkaS Twitter",
                       rel: "noreferrer",
                       target: "_blank",
@@ -11898,7 +11898,7 @@
                   }),
                   (0, Ut.jsx)("a", {
                     className: "circle twt",
-                    href: "https://x.com/monkascoin",
+                    href: "https://x.com/Monkas_11",
                     rel: "noreferrer",
                     title: "MonkaS Twitter",
                     target: "_blank",
