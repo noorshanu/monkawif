@@ -11828,7 +11828,7 @@
                 children: [
                   (0, Ut.jsx)("li", {
                     children: (0, Ut.jsx)($t, {
-                      placeholder: "Contract: 0x01....0101",
+                      placeholder: "Contract: 2gfAv....GisV  ",
                       contract: "2gfAv3WxVZGzuzMCcxT6GdxBiM212WTkwML4uDgcGisV",
                     }),
                   }),
@@ -11955,8 +11955,8 @@
                   ],
                 }),
                 (0, Ut.jsx)($t, {
-                  placeholder: "0x0101010101010101010101010101010101",
-                  contract: "0x0101010101010101010101010101010101",
+                  placeholder: "2gfAv3WxVZGzuzMCcxT6GdxBiM212WTkwML4uDgcGisV",
+                  contract: "2gfAv3WxVZGzuzMCcxT6GdxBiM212WTkwML4uDgcGisV",
                 }),
               ],
             }),
