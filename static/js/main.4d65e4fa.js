@@ -11730,7 +11730,7 @@
                     className: "btn-group",
                     children: [
                       (0, Ut.jsx)("a", {
-                        href: "#",
+                        href: "https://t.me/monkawif",
                         className: "btn primary",
                         title: "Take oath",
                         rel: "noreferrer",
@@ -11880,7 +11880,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "https://x.com/monkascoin",
+                        href: "https://x.com/Monkas_11",
                         rel: "noreferrer",
                         title: "Monkawif Twitter",
                         target: "_blank",
@@ -11888,7 +11888,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "https://t.me/monkasportal",
+                        href: "https://t.me/monkawif",
                         rel: "noreferrer",
                         title: "MonkaS Telegram",
                         target: "_blank",
@@ -11906,7 +11906,7 @@
                   }),
                   (0, Ut.jsx)("a", {
                     className: "circle twt",
-                    href: "https://t.me/monkasportal",
+                    href: "https://t.me/monkawif",
                     rel: "noreferrer",
                     title: "MonkaS Telegram",
                     target: "_blank",
