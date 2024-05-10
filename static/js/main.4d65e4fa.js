@@ -11738,7 +11738,7 @@
                         children: "Telegram",
                       }),
                       (0, Ut.jsx)("a", {
-                        href: "#",
+                        href: "https://www.dextools.io/app/en/solana/pair-explorer/BfmWYWpY4QA73BRR1uUaowwbprbH6SwkWitgqtg7xWDH?t=1715368706767",
                         className: "btn secondary",
                         title: "DexTools",
                         rel: "noreferrer",
